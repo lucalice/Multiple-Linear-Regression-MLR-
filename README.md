@@ -36,7 +36,7 @@ If yoy just have python 3 version
 You can check your version with the next command:
 
 
-If you have more than 1 python version
+If you have more than one python version
 
 - pythonX --version
 
