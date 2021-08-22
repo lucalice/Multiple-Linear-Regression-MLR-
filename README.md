@@ -10,9 +10,11 @@ You can use the next files tu use the program:
 2. prueba.txt
 3. prueba.csv
 
-- You must use main.py to use the program.
 
-- You must use the next command in mac terminal:
+
+You must use main.py to use the program.
+
+You must use the next command in mac terminal:
 
 
 
